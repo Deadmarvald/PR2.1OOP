@@ -1,0 +1,5 @@
+﻿  Pay.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.1\PR2.1\Pay.cpp(68,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  PR2.1.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.1\Debug\PR2.1.exe
